@@ -1,1 +1,22 @@
 /* Add your CSS Below */
+.b{
+position: relative;
+left: 20px;
+bottom:20px;
+}
+.two{
+    position: static;
+}
+.c{
+position: fixed;
+left: 232px;
+bottom: 458px;
+}
+.three{
+    position: relative;
+}
+.a{
+position: fixed;
+left: 1688px;
+bottom: 135px;
+}
